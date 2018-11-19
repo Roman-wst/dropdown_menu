@@ -1,2 +1,2 @@
 # Dropdown Menu
-Demo on site konditery.online. 
+Demo on site konditery.online (main menu). 
